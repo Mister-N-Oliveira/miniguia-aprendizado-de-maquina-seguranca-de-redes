@@ -195,6 +195,9 @@ Organização: separação por temas (fundamentos de ML, IDS, métricas, desafio
 
 Objetivo principal: usar o NotebookLM como “tutor” focado nas fontes, registrando respostas, erros e ajustes para aprimorar a qualidade das explicações.
 
+- Caderno temático no NotebookLM (público):  
+  https://notebooklm.google.com/notebook/c67db415-9be5-4ee2-ad1d-983105a931d1/preview
+
 ## 6. Referências e créditos
 OWASP Machine Learning Security Verification Standard (MLSVS).
 
